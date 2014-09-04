@@ -25,3 +25,11 @@ Use any 3rd party framework or components as you see fit. Please use composer wh
 Your task will be assessed on your use of OOP, dependency injection, unit testing and commenting against the level of the position for which you have applied.
 
 Points will be deducted for leaving any redundant files in your code (e.g. left overs from framework skeleton app creation).
+
+### Usage
+
+To launch the script, just hit in you shell command: php report.php myfile.csv merchantiD.
+
+### Example
+
+I want to display the transaction of the merchant Id number 2: php report.php data.csv 2.
