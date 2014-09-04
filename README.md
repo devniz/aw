@@ -32,4 +32,8 @@ To launch the script, just hit in you shell command: php report.php myfile.csv m
 
 ### Example
 
-I want to display the transaction of the merchant Id number 2: php report.php data.csv 2.
+I want to display the transaction of the merchant Id number 2: php scripts/report.php ../data.csv 2.
+
+### Composer
+
+Use only php composer.phar to install all third libraries.
